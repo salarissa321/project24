@@ -1,0 +1,100 @@
+
+
+
+body{
+
+}
+
+
+.mydiv{
+
+
+}
+
+.mycontainer{
+
+}
+
+.mynav{
+
+
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 700;
+    color: #514B6E;
+
+}
+
+.mylink{
+    font-family: var(--global--font-body);
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 500;
+    line-height: 24px;
+    color: var(--global--color-heading);
+    padding: 0;
+    position: relative;
+    display: block;
+    margin-left: 20px;
+
+}
+
+.mybtn{
+ 
+
+    height: 50px;
+    padding: 0 35px;
+    cursor: pointer;
+    padding-top: 10px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 800;
+    background-color: #FF7D3B;
+    border: 1px solid #FF7D3B;
+    border-radius: 6px;
+    margin-left: 30px;
+
+}
+
+.myschreiben{
+    font-size: 45px;
+    line-height: 60px;
+    margin-bottom: 14px;
+    color: var(--global--color-heading);
+font-family: var(--global--font-heading);
+font-weight: 700;
+margin: 0 0 28px;
+color: #1F1845;
+
+}
+
+.mypara{
+
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 35px;
+    padding-right: 40px;
+    font-weight: 400;
+    color: #ADB0C4;
+}
+
+.mybutton{
+    height: 50px;
+    padding: 0 35px;
+    cursor: pointer;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 800;
+    background-color: #FF7D3B;
+    border: 1px solid #FF7D3B;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.myimg{
+    
+}
