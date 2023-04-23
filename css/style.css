@@ -111,9 +111,10 @@ color: #FF7D3B;
 .myschrift{
     font-size: 34px;
 line-height: 1.5;
-font-weight: 500;
+font-weight: 600;
 margin-bottom: 13px;
 text-transform: capitalize;
+color: #342E57;
 }
 
 .myicon1{
@@ -201,4 +202,122 @@ margin-left: 70px;
     text-decoration: none;
     margin-left: 70px;
     margin-bottom: 50px;
+}
+
+.myvierecke{
+margin-bottom: 40px;
+width: 90px;
+height: 90px;
+justify-content: center;
+border-radius: 8px;
+background-color: #FFF2EB;
+display: flex;
+
+}
+
+.mysatz{
+text-transform: capitalize;
+font-family: var(--global--font-body);
+font-size: 47px;
+font-weight: 600;
+color: #FF7D3B;
+margin-bottom: 0;
+line-height: 1.8;
+margin-top: 0;
+}
+
+.mytitel{
+font-family: var(--global--font-body);
+text-transform: capitalize;
+font-weight: 600;
+font-size: 20px;
+line-height: 36px;
+color:#201844;
+margin-bottom: 10px;
+}
+
+.myphrase{
+    font-family: var(--global--font-body);
+font-size: 16px;
+font-weight: 400;
+line-height: 1.8;
+margin-bottom: 0;
+color:#60698D ;
+}
+
+.myfoto1{
+    width: 90px;
+height: 90px;
+border-radius: 50%;
+    border-radius: 50%;
+ 
+margin-left: 300px;
+margin-right: 300px;
+}
+
+.myfoto2{
+  
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+        border-radius: 50%;
+        
+   
+  
+   margin-right: 60px;
+   margin-left: 320px;
+    
+}
+
+.myfoto3{
+   
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+        border-radius: 50%;
+        margin-right: 20px;
+        margin-left:240px;
+    
+}
+
+.myfoto4{
+   
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+        border-radius: 50%;
+        margin-left: 70px;
+    
+   
+}
+
+.myfoto5{
+    
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border-radius: 50%;
+      
+   margin-right: 20px;
+}
+
+.myuntertitel{
+font-family: var(--global--font-body);
+font-size: 26px;
+font-weight: 500;
+line-height: 34px;
+color: #BABDCD;
+max-width: 80%;
+margin: 0 auto 36px;
+
+}
+
+.myphrase{
+    font-family: var(--global--font-body);
+font-size: 16px;
+line-height: 1.8;
+font-weight: 500;
+text-transform: capitalize;
+color: #BABDCD;
+margin-bottom: 0px;
 }
